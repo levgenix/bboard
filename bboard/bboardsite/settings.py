@@ -114,6 +114,7 @@ USE_L10N = True
 
 USE_TZ = True
 
+FIRST_DAY_OF_WEEK = 1
 
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/3.0/howto/static-files/
